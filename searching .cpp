@@ -43,7 +43,7 @@ bool binarySearch(int list[],int size, int x)
 
 int main() 
 { 
-    int arr[] = { 92, 13, 99, 10, 40,66,72,77,80 }; 
+    int arr[] = { 92, 13, 99, 1, 40,66,72,77,80 }; 
     int x = 660; 
     int n = sizeof(arr) / sizeof(int); 
     InsertionSort(arr,n);
